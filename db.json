@@ -1,42 +1,42 @@
 {
   "product": [
     {
-      "id": 1,
+      "id": "1",
       "name": "product test 1",
       "price": 311.09,
       "photo": [],
       "saleoff": false
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "product test 2",
       "price": 412.55,
       "photo": [],
       "saleoff": false
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "product test 3",
       "price": 643.55,
       "photo": [],
       "saleoff": false
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "product test 4",
       "price": 103.45,
       "photo": [],
       "saleoff": false
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "product test 5",
       "price": 313.25,
       "photo": [],
       "saleoff": false
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "product test 6",
       "price": 843.55,
       "photo": [],
