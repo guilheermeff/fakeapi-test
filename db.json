@@ -2,58 +2,66 @@
   "product": [
     {
       "id": "1",
-      "name": "product test 1",
-      "price": 311.09,
-      "photo": [],
-      "saleoff": false
+      "name": "Cafeteira Elétrica",
+      "price": 479.00,
+      "images": [
+        "https://www.havan.com.br/media/catalog/product/cache/73a52df140c4d19dbec2b6c485ea6a50/c/a/cafeteira-espresso-5-em-1-philco-pcf21p_437078.jpg",
+        "https://britaniaemcasa.vteximg.com.br/arquivos/ids/169072-400-400/CAFETEIRA-INOX-PLUS-BCF36IV_063901103.jpg?v=636765909267500000",
+        "https://www.agratto.com.br/wp-content/uploads/2020/05/2089800823-1587739359.jpg",
+        "https://images.philips.com/is/image/philipsconsumer/a4bc6fc9f383474fa41dad1400dbb84b?$jpglarge$&wid=960"
+      ],
+      "saleoff": false,
+      "description": "Cafeteira Expresso Três Corações Passione 20039017 Vermelha 127 V",
+      "brand": "Três Corações",
+      "cod": 311495651
     },
     {
       "id": "2",
       "name": "product test 2",
       "price": 412.55,
-      "photo": [],
+      "images": [],
       "saleoff": false
     },
     {
       "id": "3",
       "name": "product test 3",
       "price": 643.55,
-      "photo": [],
+      "images": [],
       "saleoff": false
     },
     {
       "id": "4",
       "name": "product test 4",
       "price": 103.45,
-      "photo": [],
+      "images": [],
       "saleoff": false
     },
     {
       "id": "5",
       "name": "product test 5",
       "price": 313.25,
-      "photo": [],
+      "images": [],
       "saleoff": false
     },
     {
       "id": "6",
       "name": "product test 6",
       "price": 843.55,
-      "photo": [],
+      "images": [],
       "saleoff": false
     },
     {
       "id": "7",
       "name": "product test 7",
       "price": 999.55,
-      "photo": [],
+      "images": [],
       "saleoff": false
     },
     {
       "id": "8",
       "name": "product test 8",
       "price": 233.55,
-      "photo": [],
+      "images": [],
       "saleoff": false
     }
   ]
