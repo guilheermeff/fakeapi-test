@@ -48,6 +48,13 @@
       "price": 999.55,
       "photo": [],
       "saleoff": false
+    },
+    {
+      "id": "8",
+      "name": "product test 8",
+      "price": 233.55,
+      "photo": [],
+      "saleoff": false
     }
   ]
 }
