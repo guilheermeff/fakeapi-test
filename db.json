@@ -41,6 +41,13 @@
       "price": 843.55,
       "photo": [],
       "saleoff": false
+    },
+    {
+      "id": "7",
+      "name": "product test 7",
+      "price": 999.55,
+      "photo": [],
+      "saleoff": false
     }
   ]
 }
