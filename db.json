@@ -2,67 +2,129 @@
   "product": [
     {
       "id": "1",
-      "name": "Cafeteira Elétrica",
-      "price": 479.00,
-      "images": [
-        "https://www.havan.com.br/media/catalog/product/cache/73a52df140c4d19dbec2b6c485ea6a50/c/a/cafeteira-espresso-5-em-1-philco-pcf21p_437078.jpg",
-        "https://britaniaemcasa.vteximg.com.br/arquivos/ids/169072-400-400/CAFETEIRA-INOX-PLUS-BCF36IV_063901103.jpg?v=636765909267500000",
-        "https://www.agratto.com.br/wp-content/uploads/2020/05/2089800823-1587739359.jpg",
-        "https://images.philips.com/is/image/philipsconsumer/a4bc6fc9f383474fa41dad1400dbb84b?$jpglarge$&wid=960"
-      ],
+      "name": "iPhone X",
+      "price": { "value": 3549.88, "currencyCode": "BRL" },
+      "vendor": "Apple",
+      "brand": "Apple",
+      "path": "/iphone-x",
+      "slug": "iphone-x",
       "saleoff": false,
-      "description": "Cafeteira Expresso Três Corações Passione 20039017 Vermelha 127 V",
-      "brand": "Três Corações",
-      "cod": 311495651
+      "description": "Câmera dupla e mais detalhes. Suas 2 câmeras traseiras de 12 Mpx/12 Mpx permitirão que você tire fotos mais detalhadas e obtenha efeitos únicos, como a famosa profundidade rasa do modo retrato de campo.",
+      "cod": 311495651,
+      "images": [
+        {
+          "url": "/images/iphone-x-0.jpg",
+          "altText": "Imagem iPhone X",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/iphone-x-1.jpg",
+          "altText": "Imagem iPhone X",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/iphone-x-2.jpg",
+          "altText": "Imagem iPhone X",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/iphone-x-3.jpg",
+          "altText": "Imagem iPhone X",
+          "width": 1000,
+          "height": 1000
+        }
+      ]
     },
     {
       "id": "2",
-      "name": "product test 2",
-      "price": 412.55,
-      "images": [],
-      "saleoff": false
+      "name": "iPad",
+      "price": { "value": 2441.77, "currencyCode": "BRL" },
+      "vendor": "Apple",
+      "brand": "Apple",
+      "path": "/ipad",
+      "slug": "ipad",
+      "saleoff": false,
+      "description": "O iPad Pro vem com o desempenho fora de série do chip M1 da Apple, bateria para o dia todo(2) e envolvente tela Liquid Retina XDR de 12,9 polegadas, ótima para ver e editar fotos e vídeos HDR.(1) O recurso Palco Central na câmera frontal se ajusta automaticamente e mantém você no centro da imagem nas chamadas de vídeo.",
+      "cod": 746390127,
+      "images": [
+        {
+          "url": "/images/ipad-0.jpg",
+          "altText": "Imagem iPad",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/ipad-1.jpg",
+          "altText": "Imagem iPad",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/ipad-2.jpg",
+          "altText": "Imagem iPad",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/ipad-3.jpg",
+          "altText": "Imagem iPad",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/ipad-4.jpg",
+          "altText": "Imagem iPad",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/ipad-5.jpg",
+          "altText": "Imagem iPad",
+          "width": 1000,
+          "height": 1000
+        }
+      ]
     },
     {
       "id": "3",
-      "name": "product test 3",
-      "price": 643.55,
-      "images": [],
-      "saleoff": false
-    },
-    {
-      "id": "4",
-      "name": "product test 4",
-      "price": 103.45,
-      "images": [],
-      "saleoff": false
-    },
-    {
-      "id": "5",
-      "name": "product test 5",
-      "price": 313.25,
-      "images": [],
-      "saleoff": false
-    },
-    {
-      "id": "6",
-      "name": "product test 6",
-      "price": 843.55,
-      "images": [],
-      "saleoff": false
-    },
-    {
-      "id": "7",
-      "name": "product test 7",
-      "price": 999.55,
-      "images": [],
-      "saleoff": false
-    },
-    {
-      "id": "8",
-      "name": "product test 8",
-      "price": 233.55,
-      "images": [],
-      "saleoff": false
+      "name": "Macbook Pro",
+      "price": { "value": 12776.23, "currencyCode": "BRL" },
+      "vendor": "Apple",
+      "brand": "Apple",
+      "path": "/macbook-pro",
+      "slug": "macbook-pro",
+      "saleoff": false,
+      "description": "O MacBookPro de 13 polegadas está voando com o chip M1 da Apple. Sua CPU de oito núcleos encara com rapidez fluxos de trabalho complexos em fotografia, programação, edição de vídeo e muito mais. A GPU de oito núcleos dá conta de tarefas com gráficos pesados e roda os games melhor do que nunca.",
+      "cod": 746392125,
+      "images": [
+        {
+          "url": "/images/macbook-0.jpg",
+          "altText": "Imagem Macbook",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/macbook-1.jpg",
+          "altText": "Imagem Macbook",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/macbook-2.jpg",
+          "altText": "Imagem Macbook",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/macbook-3.jpg",
+          "altText": "Imagem Macbook",
+          "width": 1000,
+          "height": 1000
+        }
+      ]
     }
   ]
 }
