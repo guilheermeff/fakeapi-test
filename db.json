@@ -14,25 +14,25 @@
       "images": [
         {
           "url": "/images/iphone-x-0.jpg",
-          "altText": "Imagem iPhone X",
+          "alt": "Imagem iPhone X",
           "width": 1000,
           "height": 1000
         },
         {
           "url": "/images/iphone-x-1.jpg",
-          "altText": "Imagem iPhone X",
+          "alt": "Imagem iPhone X",
           "width": 1000,
           "height": 1000
         },
         {
           "url": "/images/iphone-x-2.jpg",
-          "altText": "Imagem iPhone X",
+          "alt": "Imagem iPhone X",
           "width": 1000,
           "height": 1000
         },
         {
           "url": "/images/iphone-x-3.jpg",
-          "altText": "Imagem iPhone X",
+          "alt": "Imagem iPhone X",
           "width": 1000,
           "height": 1000
         }
@@ -52,37 +52,37 @@
       "images": [
         {
           "url": "/images/ipad-0.jpg",
-          "altText": "Imagem iPad",
+          "alt": "Imagem iPad",
           "width": 1000,
           "height": 1000
         },
         {
           "url": "/images/ipad-1.jpg",
-          "altText": "Imagem iPad",
+          "alt": "Imagem iPad",
           "width": 1000,
           "height": 1000
         },
         {
           "url": "/images/ipad-2.jpg",
-          "altText": "Imagem iPad",
+          "alt": "Imagem iPad",
           "width": 1000,
           "height": 1000
         },
         {
           "url": "/images/ipad-3.jpg",
-          "altText": "Imagem iPad",
+          "alt": "Imagem iPad",
           "width": 1000,
           "height": 1000
         },
         {
           "url": "/images/ipad-4.jpg",
-          "altText": "Imagem iPad",
+          "alt": "Imagem iPad",
           "width": 1000,
           "height": 1000
         },
         {
           "url": "/images/ipad-5.jpg",
-          "altText": "Imagem iPad",
+          "alt": "Imagem iPad",
           "width": 1000,
           "height": 1000
         }
@@ -102,25 +102,25 @@
       "images": [
         {
           "url": "/images/macbook-0.jpg",
-          "altText": "Imagem Macbook",
+          "alt": "Imagem Macbook",
           "width": 1000,
           "height": 1000
         },
         {
           "url": "/images/macbook-1.jpg",
-          "altText": "Imagem Macbook",
+          "alt": "Imagem Macbook",
           "width": 1000,
           "height": 1000
         },
         {
           "url": "/images/macbook-2.jpg",
-          "altText": "Imagem Macbook",
+          "alt": "Imagem Macbook",
           "width": 1000,
           "height": 1000
         },
         {
           "url": "/images/macbook-3.jpg",
-          "altText": "Imagem Macbook",
+          "alt": "Imagem Macbook",
           "width": 1000,
           "height": 1000
         }
