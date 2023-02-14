@@ -125,6 +125,358 @@
           "height": 1000
         }
       ]
+    },
+    {
+      "id": "4",
+      "name": "iPhone 11 Pro Max",
+      "price": { "value": 6735.23, "currencyCode": "BRL" },
+      "vendor": "Apple",
+      "brand": "Apple",
+      "path": "/iphone-11-pro-max",
+      "slug": "iphone-11-pro-max",
+      "saleoff": false,
+      "description": "O iPhone 11 Pro Max possui um revolucionário sistema de três câmeras que multiplica sua capacidade criativa e é fácil de usar. Com sua câmera ultra-angular, ninguém fica de fora da cena, pois abrange um campo de visão quatro vezes mais amplo.",
+      "cod": 746290277,
+      "images": [
+        {
+          "url": "/images/iphone-11-pro-max-0.jpg",
+          "alt": "Imagem iPhone 11 PRO MAX",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/iphone-11-pro-max-1.jpg",
+          "alt": "Imagem iPhone 11 PRO MAX",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/iphone-11-pro-max-2.jpg",
+          "alt": "Imagem iPhone 11 PRO MAX",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/iphone-11-pro-max-3.jpg",
+          "alt": "Imagem iPhone 11 PRO MAX",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/iphone-11-pro-max-4.jpg",
+          "alt": "Imagem iPhone 11 PRO MAX",
+          "width": 1000,
+          "height": 1000
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "iPhone 12 Pro Max",
+      "price": { "value": 8555.23, "currencyCode": "BRL" },
+      "vendor": "Apple",
+      "brand": "Apple",
+      "path": "/iphone-12-pro-max",
+      "slug": "iphone-12-pro-max",
+      "saleoff": false,
+      "description": "iPhone 12 Pro Max. 5G para baixar arquivos enormes em qualquer lugar e fazer streaming de vídeos HDR (1). Tela Super Retina XDR maior com 6,7 polegadas (2). Ceramic Shield, que é quatro vezes mais resistente a quedas (3). Fotos surpreendentes em pouca luz com o melhor sistema de câmera Pro em um iPhone e alcance de zoom óptico de 5x.",
+      "cod": 227651098,
+      "images": [
+        {
+          "url": "/images/iphone-12-pro-max-0.jpg",
+          "alt": "Imagem iPhone 12 PRO MAX",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/iphone-12-pro-max-1.jpg",
+          "alt": "Imagem iPhone 12 PRO MAX",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/iphone-12-pro-max-2.jpg",
+          "alt": "Imagem iPhone 12 PRO MAX",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/iphone-12-pro-max-3.jpg",
+          "alt": "Imagem iPhone 12 PRO MAX",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/iphone-12-pro-max-4.jpg",
+          "alt": "Imagem iPhone 12 PRO MAX",
+          "width": 1000,
+          "height": 1000
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "iPhone 13 Pro Max",
+      "price": { "value": 9111.69, "currencyCode": "BRL" },
+      "vendor": "Apple",
+      "brand": "Apple",
+      "path": "/iphone-13-pro-max",
+      "slug": "iphone-13-pro-max",
+      "saleoff": false,
+      "description": "iPhone 13 Pro Max. O maior upgrade do sistema de câmera Pro até hoje. Tela Super Retina XDR com ProMotion para uma experiência mais rápida e responsiva. Chip A15 Bionic com velocidade impressionante. 5G ultrarrápido1. Design resistente. E a maior duração de bateria em um iPhone2.",
+      "cod": 109257893,
+      "images": [
+        {
+          "url": "/images/iphone-13-pro-max-0.jpg",
+          "alt": "Imagem iPhone 13 PRO MAX",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/iphone-13-pro-max-1.jpg",
+          "alt": "Imagem iPhone 13 PRO MAX",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/iphone-13-pro-max-2.jpg",
+          "alt": "Imagem iPhone 13 PRO MAX",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/iphone-13-pro-max-3.jpg",
+          "alt": "Imagem iPhone 13 PRO MAX",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/iphone-13-pro-max-4.jpg",
+          "alt": "Imagem iPhone 13 PRO MAX",
+          "width": 1000,
+          "height": 1000
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "iPhone 13 Pro Max",
+      "price": { "value": 9111.69, "currencyCode": "BRL" },
+      "vendor": "Apple",
+      "brand": "Apple",
+      "path": "/iphone-13-pro-max",
+      "slug": "iphone-13-pro-max",
+      "saleoff": false,
+      "description": "iPhone 13 Pro Max. O maior upgrade do sistema de câmera Pro até hoje. Tela Super Retina XDR com ProMotion para uma experiência mais rápida e responsiva. Chip A15 Bionic com velocidade impressionante. 5G ultrarrápido1. Design resistente. E a maior duração de bateria em um iPhone2.",
+      "cod": 109257893,
+      "images": [
+        {
+          "url": "/images/iphone-13-pro-max-0.jpg",
+          "alt": "Imagem iPhone 13 PRO MAX",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/iphone-13-pro-max-1.jpg",
+          "alt": "Imagem iPhone 13 PRO MAX",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/iphone-13-pro-max-2.jpg",
+          "alt": "Imagem iPhone 13 PRO MAX",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/iphone-13-pro-max-3.jpg",
+          "alt": "Imagem iPhone 13 PRO MAX",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/iphone-13-pro-max-4.jpg",
+          "alt": "Imagem iPhone 13 PRO MAX",
+          "width": 1000,
+          "height": 1000
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "iPhone 14 Pro Max",
+      "price": { "value": 9111.69, "currencyCode": "BRL" },
+      "vendor": "Apple",
+      "brand": "Apple",
+      "path": "/iphone-14-pro-max",
+      "slug": "iphone-14-pro-max",
+      "saleoff": false,
+      "description": "iPhone 14 Pro Max. Câmera grande-angular de 48 MP para capturar detalhes impressionantes. Dynamic Island, uma nova forma de interação no iPhone. Tela Sempre Ativa. E Detecção de Acidente(1), um novo recurso de segurança que liga para a emergência se você não puder.",
+      "cod": 109257893,
+      "images": [
+        {
+          "url": "/images/iphone-14-pro-max-0.jpg",
+          "alt": "Imagem iPhone 14 PRO MAX",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/iphone-14-pro-max-1.jpg",
+          "alt": "Imagem iPhone 14 PRO MAX",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/iphone-14-pro-max-2.jpg",
+          "alt": "Imagem iPhone 14 PRO MAX",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/iphone-14-pro-max-3.jpg",
+          "alt": "Imagem iPhone 14 PRO MAX",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/iphone-14-pro-max-4.jpg",
+          "alt": "Imagem iPhone 14 PRO MAX",
+          "width": 1000,
+          "height": 1000
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Apple Watch Ultra",
+      "price": { "value": 4221.69, "currencyCode": "BRL" },
+      "vendor": "Apple",
+      "brand": "Apple",
+      "path": "/apple-watch-ultra",
+      "slug": "apple-watch-ultra",
+      "saleoff": false,
+      "description": "O Apple Watch mais versátil e duro na queda já criado, projetado para exploração, aventura e esportes de resistência. Com uma caixa de titânio aeroespacial de 49 mm, bateria com duração extralonga, apps especializados que funcionam com os sensores avançados e um novo botão de Ação que pode ser configurado.",
+      "cod": 409111987,
+      "images": [
+        {
+          "url": "/images/apple-watch-ultra-0.jpg",
+          "alt": "Imagem Apple Watch Ultra",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/apple-watch-ultra-1.jpg",
+          "alt": "Imagem Apple Watch Ultra",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/apple-watch-ultra-2.jpg",
+          "alt": "Imagem Apple Watch Ultra",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/apple-watch-ultra-3.jpg",
+          "alt": "Imagem Apple Watch Ultra",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/apple-watch-ultra-4.jpg",
+          "alt": "Imagem Apple Watch Ultra",
+          "width": 1000,
+          "height": 1000
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Apple TV",
+      "price": { "value": 1542.79, "currencyCode": "BRL" },
+      "vendor": "Apple",
+      "brand": "Apple",
+      "path": "/apple-tv",
+      "slug": "apple-tv",
+      "saleoff": false,
+      "description": "Com este media player da Apple, os fãs da pequena maçã encontrarão o complemento perfeito para a sua tela. Acessar filmes, séries, fotos e websites a partir de um mesmo dispositivo é possível. Por sua vez, as ferramentas digitais e funções incluídas fazem a diferença em relação ao resto.",
+      "cod": 110165287,
+      "images": [
+        {
+          "url": "/images/apple-tv-0.jpg",
+          "alt": "Imagem Apple TV",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/apple-tv-1.jpg",
+          "alt": "Imagem Apple TV",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/apple-tv-2.jpg",
+          "alt": "Imagem Apple TV",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/apple-tv-3.jpg",
+          "alt": "Imagem Apple TV",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/apple-tv-4.jpg",
+          "alt": "Imagem Apple TV",
+          "width": 1000,
+          "height": 1000
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Imac",
+      "price": { "value": 20987.19, "currencyCode": "BRL" },
+      "vendor": "Apple",
+      "brand": "Apple",
+      "path": "/imac",
+      "slug": "imac",
+      "saleoff": false,
+      "description": "O macOS é o sistema operacional para computadores mais avançado do mundo. O macOS Big Sur traz um novo design e atualizações importantes para os apps, levando o macOS a um novo nível de potência e beleza.",
+      "cod": 110165287,
+      "images": [
+        {
+          "url": "/images/imac-0.jpg",
+          "alt": "Imagem Imac",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/imac-1.jpg",
+          "alt": "Imagem Imac",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/imac-2.jpg",
+          "alt": "Imagem Imac",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/imac-3.jpg",
+          "alt": "Imagem Imac",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/images/imac-4.jpg",
+          "alt": "Imagem Imac",
+          "width": 1000,
+          "height": 1000
+        }
+      ]
     }
   ]
 }
